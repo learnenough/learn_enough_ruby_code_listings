@@ -1,0 +1,7 @@
+>> a.each do |element|
+?>   puts element
+>> end
+ant
+bat
+cat
+42

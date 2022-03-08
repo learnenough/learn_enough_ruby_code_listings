@@ -1,0 +1,4 @@
+>> first_name + " " + last_name     # Concatenation, with a space in between
+=> "Michael Hartl"
+>> "#{first_name} #{last_name}"     # The equivalent interpolation
+=> "Michael Hartl"

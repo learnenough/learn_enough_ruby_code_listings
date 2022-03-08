@@ -1,0 +1,7 @@
+>> for i in 0..(a.length - 1)
+?>   puts a[i]
+>> end
+ant
+bat
+cat
+42

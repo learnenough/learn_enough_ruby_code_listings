@@ -1,0 +1,2 @@
+$ ruby -v
+ruby 2.7.3p183 (2021-04-05 revision 6847ee089d) [x86_64-linux]

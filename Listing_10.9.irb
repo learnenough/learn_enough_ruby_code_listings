@@ -1,0 +1,2 @@
+>> doc.css('p').map { |paragraph| paragraph.content }
+=> ["lorem", "ipsum"]

@@ -1,0 +1,6 @@
+$ bundle exec rake test
+ FAIL["test_letters", "MhartlPalindromeTest", 0.0007690000347793102]
+ test_letters#MhartlPalindromeTest (0.00s)
+        Expected: "MadamImAdam"
+          Actual: nil
+5 tests, 5 assertions, 2 failures, 0 errors, 0 skips

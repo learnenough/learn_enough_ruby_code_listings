@@ -1,0 +1,3 @@
+$ bundle exec rake test
+NoMethodError: undefined method `letters' for "Madam, I'm Adam.":String
+5 tests, 4 assertions, 0 failures, 1 errors, 0 skips

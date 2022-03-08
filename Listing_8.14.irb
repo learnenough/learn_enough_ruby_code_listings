@@ -1,0 +1,4 @@
+>> load "./palindrome.rb"
+>> frase = TranslatedPhrase.new("recognize", "reconocer")
+>> frase.palindrome?
+=> false

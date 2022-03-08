@@ -1,0 +1,9 @@
+$ bundle exec rerun app.rb
+
+12:10:10 [rerun] Palindrome_app launched
+12:10:10 [rerun] Rerun (79556) running Palindrome_app (79575)
+== Sinatra (v2.0.3) has taken the stage on 4567 for development
+with backup from Thin
+Thin web server (v1.7.2 codename Bachmanity)
+Maximum connections set to 1024
+Listening on localhost:4567, CTRL+C to stop

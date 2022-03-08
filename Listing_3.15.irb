@@ -1,0 +1,6 @@
+>> if x.empty? && y.empty?
+>>   "Both strings are empty!"
+>> else
+>>   "At least one of the strings is nonempty."
+>> end
+=> "At least one of the strings is nonempty."

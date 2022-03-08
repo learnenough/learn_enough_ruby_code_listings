@@ -1,0 +1,9 @@
+>> soliloquy = "To be, or not to be, that is the question:"
+>> soliloquy.include?("To be")        # Does it include the substring "To be"?
+=> true
+>> soliloquy.include?("question")     # What about "question"?
+=> true
+>> soliloquy.include?("nonexistent")  # This string doesn't appear.
+=> false
+>> soliloquy.include?("TO BE")        # String inclusion is case-sensitive.
+=> false

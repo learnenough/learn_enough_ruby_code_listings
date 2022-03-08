@@ -1,0 +1,2 @@
+$ bundle exec rake test
+2 tests, 2 assertions, 1 failures, 0 errors, 0 skips

@@ -1,0 +1,4 @@
+>> load "./palindrome.rb"
+>> p = Phrase.new("yo adrian!")
+>> p.louder
+=> "YO ADRIAN!"

@@ -1,0 +1,7 @@
+$ cd ~/repos    # Use ~/environment/repos on Cloud9
+$ bundle gem <username>_palindrome
+Do you want to generate tests with your gem?
+Type 'rspec' or 'minitest' to generate those test files now and in the future.
+rspec/minitest/(none): minitest
+Do you want to license your code permissively under the MIT license? y/(n): n
+Do you want to include a code of conduct in gems you generate? y/(n): n

@@ -1,0 +1,4 @@
+>> require 'nokogiri'
+>> html = '<p>lorem<sup class="reference">1</sup></p><p>ipsum</p>'
+>> doc = Nokogiri::HTML(html)
+=> #<Nokogiri::HTML::Document:0x3fd87e023b18...

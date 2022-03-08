@@ -1,0 +1,16 @@
+>> for i in 0..(soliloquy.length - 1)
+?>   puts soliloquy[i]
+>> end
+T
+o
+
+b
+e
+.
+.
+.
+t
+i
+o
+n
+:

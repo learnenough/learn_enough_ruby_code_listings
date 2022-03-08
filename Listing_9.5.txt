@@ -1,0 +1,14 @@
+$ bundle exec rake test
+Started with run options --seed 57409
+
+ FAIL["test_it_does_something_useful", "MhartlPalindromeTest",
+ 0.0007609999738633633]
+ test_it_does_something_useful#MhartlPalindromeTest (0.00s)
+        Expected false to be truthy.
+        /Users/mhartl/repos/mhartl_palindrome/test/mhartl_palindrome_test.rb:9:in
+        `test_it_does_something_useful'
+
+  2/2: [===================================] 100% Time: 00:00:00, Time: 00:00:00
+
+Finished in 0.00119s
+2 tests, 2 assertions, 1 failures, 0 errors, 0 skips

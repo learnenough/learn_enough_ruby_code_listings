@@ -1,0 +1,4 @@
+>> puts "hello\tgoodbye"
+>> puts "hello\ngoodbye"
+>> puts 'hello\tgoodbye'
+>> puts 'hello\ngoodbye'
