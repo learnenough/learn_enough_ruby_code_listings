@@ -1,4 +1,4 @@
-states = ["Kansas", "Nebraska", "North Dakota", "South Dakota"]
+states_map = ["Kansas", "Nebraska", "North Dakota", "South Dakota"]
 
 # urls: Imperative version
 def imperative_urls(states)
